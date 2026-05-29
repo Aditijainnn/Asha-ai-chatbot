@@ -32,6 +32,8 @@
 - **PyPDFLoader**
 
 ---
+<img width="1326" height="863" alt="image" src="https://github.com/user-attachments/assets/f570e320-54a2-4b58-810d-a4655bb93299" />
+
 
 ## 🏗️ Installation
 
