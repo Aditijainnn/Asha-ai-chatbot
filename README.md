@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Mission & Vision
+##  Mission & Vision
 
 **Mission**: To empower rural Indian women with accessible, AI-driven mentorship in business, finance, and digital tools—helping them become confident entrepreneurs and leaders in their communities.
 
@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- **🧠 Conversational AI**: Built using LangChain and Google Generative AI for context-aware, intelligent chat.
-- **📄 Document Retrieval**: Supports PDF, JSON, and TXT file ingestion to fetch accurate, relevant information.
-- **📚 Vector Database**: Uses Chroma and Hugging Face embeddings for fast, semantic search.
-- **📝 Custom Prompts**: Ensures responses are simple, structured, and culturally appropriate.
-- **⚙️ FastAPI Integration**: RESTful API support for frontend/backend interaction.
+- ** Conversational AI**: Built using LangChain and Google Generative AI for context-aware, intelligent chat.
+- ** Document Retrieval**: Supports PDF, JSON, and TXT file ingestion to fetch accurate, relevant information.
+- ** Vector Database**: Uses Chroma and Hugging Face embeddings for fast, semantic search.
+- ** Custom Prompts**: Ensures responses are simple, structured, and culturally appropriate.
+- ** FastAPI Integration**: RESTful API support for frontend/backend interaction.
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 -  **Retrieval-augmented generation (RAG)**
 - **Google Generative AI (Gemini)**
@@ -35,7 +35,7 @@
 <img width="1326" height="863" alt="image" src="https://github.com/user-attachments/assets/f570e320-54a2-4b58-810d-a4655bb93299" />
 
 
-## 🏗️ Installation
+##  Installation
 
 ```bash
 1. git clone https://github.com/your-repo/Chat.git
@@ -95,7 +95,7 @@ The chatbot is designed to:
 - Use simple and clear language.
 - Offer culturally appropriate advice tailored to rural Indian women.
 
-## 📍 Example Use Case
+##  Example Use Case
 
 1. **User Query**: "What are the government schemes for women entrepreneurs?"
 2. **Response**:
@@ -119,7 +119,7 @@ The MVP of InspireHer Chatbot includes:
 - **Offline mode planning** for remote deployment.
 
   
-## 💼 Business Model
+##  Business Model
 #### Target Users:
 Rural Indian women (aspiring and current entrepreneurs)
 
